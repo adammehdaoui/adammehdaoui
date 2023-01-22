@@ -1,5 +1,7 @@
 ## Bienvenue sur le profil GitHub de Adam Mehdaoui <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+### Liens
+
 <div> 
   <img src="https://komarev.com/ghpvc/?username=mehdaouiadam&label=Profile%20views&color=ce9927&style=flat" alt="mehdaouiadam"/> 
   <a href=https://discord.gg/DUtMEfAA9N> 
@@ -7,5 +9,9 @@
   </a>  
 </div>
 
+### Statistiques
+<p align="center">
+  <a href="https://github.com/adammehdaoui"><img src="https://github-readme-stats.vercel.app/api?username=adammehdaoui&hide_border=true&show_icons=true" alt="adammehdaoui's github stats"></a>
+</p>
 
 
