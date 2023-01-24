@@ -10,14 +10,14 @@
 <br>
 
 <a href="https://github.com/adammehdaoui">
-  <img src="https://github-readme-stats.vercel.app/api?username=adammehdaoui&hide_border=true&show_icons=true&theme=dracula" alt="Mes statistiques sur GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=adammehdaoui&show_icons=true&theme=dracula" alt="Mes statistiques sur GitHub">
 </a>
 
 <br>
 <br>
 
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammehdaoui&layout=compact" alt="Mes statistiques sur GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammehdaoui&theme=dracula&layout=compact" alt="Mes statistiques sur GitHub">
 </a>
                  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
