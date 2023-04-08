@@ -8,7 +8,7 @@
 
 # Bienvenue sur mon profil GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-> ***C'est ici que vous trouverez mes projets de développement. N'hésitez pas à explorer mon code et à me contacter si vous avez des questions ou des commentaires. Merci d'être passé !***
+> ***C'est ici que vous trouverez mes projets de développement. N'hésitez pas à explorer mon code et à me contacter (adam.mehdaouijorge@gmail.com) si vous avez des questions ou des commentaires. Merci d'être passé !***
 
 <br>
 
