@@ -2,6 +2,8 @@
 
 > **C'est ici que vous trouverez mes projets de développement. N'hésitez pas à explorer mon code et à me contacter si vous avez des questions ou des commentaires. Merci d'être passé !**
 
+<br>
+
 <div> 
   <img src="https://komarev.com/ghpvc/?username=mehdaouiadam&label=Profile%20views&color=ce9927&style=flat" alt="mehdaouiadam"/> 
   <a href=https://discord.gg/DUtMEfAA9N> 
@@ -14,6 +16,8 @@
 <a href="https://github.com/adammehdaoui">
   <img src="https://github-readme-stats.vercel.app/api?username=adammehdaoui&show_icons=true&theme=tokyonight" alt="Mes statistiques sur GitHub">
 </a>
+
+<br>
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammehdaoui&theme=tokyonight&layout=compact" alt="Mes statistiques sur GitHub">
