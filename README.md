@@ -1,6 +1,3 @@
-# Bienvenue sur mon profil GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-> **C'est ici que vous trouverez mes projets de développement. N'hésitez pas à explorer mon code et à me contacter si vous avez des questions ou des commentaires. Merci d'être passé !**
 
 <div> 
   <img src="https://komarev.com/ghpvc/?username=mehdaouiadam&label=Profile%20views&color=ce9927&style=flat" alt="mehdaouiadam"/> 
@@ -8,6 +5,10 @@
     <img src="https://img.shields.io/discord/473484319914983434.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/>
   </a>  
 </div>
+
+# Bienvenue sur mon profil GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+> ***C'est ici que vous trouverez mes projets de développement. N'hésitez pas à explorer mon code et à me contacter si vous avez des questions ou des commentaires. Merci d'être passé !***
 
 <br>
 
