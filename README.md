@@ -14,7 +14,7 @@
 <br>
 
 <a href="https://github.com/adammehdaoui">
-  <img src="https://github-readme-stats.vercel.app/api?username=adammehdaoui&show_icons=true&theme=tokyonight" alt="Mes statistiques sur GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=adammehdaoui&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mes statistiques sur GitHub">
 </a>
 
 <a>
