@@ -1,3 +1,6 @@
+<link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+
+<div style="font-family: Montserrat;">
 
 <div> 
   <img src="https://komarev.com/ghpvc/?username=mehdaouiadam&label=Profile%20views&color=ce9927&style=flat" alt="mehdaouiadam"/> 
@@ -6,7 +9,7 @@
   </a>  
 </div>
 
-# Bienvenue sur mon profil GitHub ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Bienvenue sur mon profil GitHub ! <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 > ***C'est ici que vous trouverez mes projets de développement. N'hésitez pas à explorer mon code et à me contacter (adam.mehdaouijorge@gmail.com) si vous avez des questions ou des commentaires. Merci d'être passé !***
 
@@ -26,5 +29,6 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
--->                                                                                              
-
+-->     *
+  
+</div>
