@@ -1,7 +1,5 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
-<div style="font-family: Montserrat;">
-
 <div> 
   <img src="https://komarev.com/ghpvc/?username=mehdaouiadam&label=Profile%20views&color=ce9927&style=flat" alt="mehdaouiadam"/> 
   <a href=https://discord.gg/DUtMEfAA9N> 
@@ -29,6 +27,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
--->     *
-  
-</div>
+-->    
