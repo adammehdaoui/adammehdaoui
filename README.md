@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
 <div> 
-  <img src="https://komarev.com/ghpvc/?username=mehdaouiadam&label=Profile%20views&color=ce9927&style=flat" alt="mehdaouiadam"/> 
+  <img src="https://komarev.com/ghpvc/?username=mehdaouiadam&label=Profile%20views&color=ce9927&style=flat"/> 
 </div>
 
 # Bienvenue sur mon profil GitHub ! <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
