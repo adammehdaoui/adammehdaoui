@@ -1,13 +1,12 @@
 Hi 👋 My name is Adam Mehdaoui
 ==============================
 
-Developer
+Fullstack developer
 ---------
 
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [adam.mehdaouijorge@gmail.com](mailto:adam.mehdaouijorge@gmail.com)
 * 🧠  I'm learning Angular
-* 🤝  I'm open to collaborating on all development projets
 
 ### Skills
 
