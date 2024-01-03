@@ -1,15 +1,11 @@
 Hi 👋 My name is Adam Mehdaoui
 ==============================
 
-Fullstack developer
----------
-
 * 🌍  I'm based in Paris
 * ✉️  You can contact me at [adam.mehdaouijorge@gmail.com](mailto:adam.mehdaouijorge@gmail.com)
 * 🧠  I'm learning Angular
 
 ### Skills
-
 
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
