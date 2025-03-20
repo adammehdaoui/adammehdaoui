@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adammehdaoui&label=Profile%20views&color=0e75b6&style=flat" alt="adammehdaoui" /> </p>
 
-- 🌱 I’m currently learning **k8s and cloud technologies**
+- 🌱 I’m currently learning **k8s and mobile technologies**
 
 - 📫 How to reach me **adam.mehdaoui-jorge@supdevinci-edu.fr**
 
